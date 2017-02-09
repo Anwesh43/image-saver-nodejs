@@ -1,12 +1,25 @@
 {
   "name": "image-saver-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "keywords":[
+    "image",
+    "base64",
+    "local file system",
+    "file",
+    "png",
+    "jpg",
+    "saving image"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository":{
+      "type":"git",
+      "url":"https://github.com/Anwesh43/image-saver-nodejs"
+  },
+  "author": "Anwesh Mishra",
   "license": "ISC",
   "dependencies": {
     "q": "^1.4.1"
